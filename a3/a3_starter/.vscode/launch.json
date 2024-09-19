@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kewpiechiu/B63_data_structures/a3/a3_starter",
+      "program": "/Users/kewpiechiu/B63_data_structures/a3/a3_starter/build/Debug/outDebug"
+    }
+  ]
+}
